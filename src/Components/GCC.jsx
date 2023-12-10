@@ -13,7 +13,7 @@ export default function GCC() {
       <Box>
         <Center m={["20px", "30px", "50px"]}>
           <GitHubCalendar
-            username="ArpitSyntaxError"
+            username="Arpit-Yadav-Dev"
             hideTotalCount={"false"}
             color={"#4299e1"}
           />

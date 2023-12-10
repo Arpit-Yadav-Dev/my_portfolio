@@ -74,7 +74,7 @@ export default function GetInTouch() {
             </Box>
             <Box width={"30px"} id="contact-github">
               {/* <Link href="https://github.com/suraj826580" target="_blank"> */}
-              <Link href="https://github.com/ArpitSyntaxError" target="_blank">
+              <Link href="https://github.com/Arpit-Yadav-Dev" target="_blank">
                 <Image
                   width={"100%"}
                   src="https://cdn-icons-png.flaticon.com/512/270/270798.png"

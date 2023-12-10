@@ -20,16 +20,16 @@ export default function GitHubStat() {
             <img
               id="github-stats-card"
               align="center"
-              src="https://github-readme-stats.vercel.app/api?username=ArpitSyntaxError&show_icons=true&locale=en"
-              alt="ArpitSyntaxError"
+              src="https://github-readme-stats.vercel.app/api?username=Arpit-Yadav-Dev&show_icons=true&locale=en"
+              alt="Arpit-Yadav-Dev"
             />
           </p>
           <p>
             <img
               id="github-streak-stats"
               align="center"
-              src="https://github-readme-streak-stats.herokuapp.com/?user=ArpitSyntaxError&"
-              alt="ArpitSyntaxError"
+              src="https://github-readme-streak-stats.herokuapp.com/?user=Arpit-Yadav-Dev&"
+              alt="Arpit-Yadav-Dev"
             />
           </p>
         </Flex>
@@ -38,8 +38,8 @@ export default function GitHubStat() {
             <img
               id="github-top-langs"
               align="center"
-              src="https://github-readme-stats.vercel.app/api/top-langs?username=ArpitSyntaxError&show_icons=true&locale=en&layout=compact"
-              alt="ArpitSyntaxError"
+              src="https://github-readme-stats.vercel.app/api/top-langs?username=Arpit-Yadav-Dev&show_icons=true&locale=en&layout=compact"
+              alt="Arpit-Yadav-Dev"
             />
           </p>
         </Center>

@@ -4,7 +4,7 @@ import React from "react";
 const socials = [
   {
     logo: "https://cdn-icons-png.flaticon.com/512/270/270798.png",
-    link: "https://github.com/ArpitSyntaxError",
+    link: "https://github.com/Arpit-Yadav-Dev",
     
   },
   {
